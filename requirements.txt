@@ -1,0 +1,2 @@
+Необходимые для запуска библиотеки:
+Sqlite3; Sys; Os; random; pygame
